@@ -4,11 +4,15 @@ This is a simple React app that filters data asynchronously and highlights the m
 
 ## How to run the project
 
+### Locally
 1. Clone the repository.
 2. Navigate to the project folder.
 3. Install the dependencies by running the following command: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and go to http://localhost:3000 to see the app in action.
+
+### Remote URL
+https://hayk231.github.io/react-autocomplete/
 
 ## Usage
 
